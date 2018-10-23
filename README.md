@@ -1,3 +1,5 @@
+[![Build Status](https://damoo42.visualstudio.com/calculator/_apis/build/status/damoodamoo.calculator)](https://damoo42.visualstudio.com/calculator/_build/latest?definitionId=4)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
